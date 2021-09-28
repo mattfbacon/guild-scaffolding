@@ -1,0 +1,15 @@
+[
+	{
+		"name": "first category",
+		"items": [
+			"channel/role A1",
+			"channel/role A2"
+		]
+	},
+	{
+		"name": "second category",
+		"items": [
+			"channel/role B1"
+		]
+	}
+]
